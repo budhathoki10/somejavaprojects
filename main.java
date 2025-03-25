@@ -1,5 +1,6 @@
-public class main{
+public class main {
     public static void main(String[] args) {
-        index index= new index();
+        SimpleLoginForm frame= new SimpleLoginForm();
     }
+    
 }
